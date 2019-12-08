@@ -2,6 +2,9 @@
 School use Beacon
 校園Beacon案子
 
+Project Path : nRF5_SDK_14.0.0_3bcc1f7\examples\<customer name>
+need add customer BLE Service
+
 BLE Service
 bcn_service : 更改Beacon資料用
 * UUID
